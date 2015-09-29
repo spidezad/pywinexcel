@@ -1,0 +1,16 @@
+###########################################
+
+ pywinExcel module
+ Author: Tan Kok Hua
+ Email: kokhua81@gmail.com
+ Revised date: Oct 2015
+
+############################################
+
+ Notes:
+     Derived/modified from original ExcelLink.py found on internet (2008)
+	 Branch up from pyExcel in github to make it compatible with pip install
+	 
+ To use:
+	 from pywinexcel import UseExcel
+	 w = UseExcel()
